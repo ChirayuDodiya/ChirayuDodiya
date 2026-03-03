@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Chirayu%20Dodiya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Systems%20%7C%20GenAI%20Explorer&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Chirayu%20Dodiya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Webdev%20%7C%20GenAI%20Explorer&descAlignY=55"/>
 </p>
 
 <h3 align="center">Hey 👋 I'm Chirayu</h3>
@@ -31,14 +31,14 @@ Full Stack Developer • Curious Builder • Problem Solver 🚀
 <a href="https://www.linkedin.com/in/chirayu-dodiya/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirayu-dodiya" height="30" width="40" />
 </a>
+<a href="https://leetcode.com/u/chirayu_dodiya/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chirayu_dodiya" height="30" width="40" />
+  <a href="https://codeforces.com/profile/Chirayu_Dodiya" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Chirayu_Dodiya" height="30" width="40" />
+</a>
 <a href="https://www.instagram.com/chirayu_dodiya/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chirayu_dodiya" height="30" width="40" />
 </a>
-<a href="https://codeforces.com/profile/Chirayu_Dodiya" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Chirayu_Dodiya" height="30" width="40" />
-</a>
-<a href="https://leetcode.com/u/chirayu_dodiya/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chirayu_dodiya" height="30" width="40" />
 </a>
 </p>
 
