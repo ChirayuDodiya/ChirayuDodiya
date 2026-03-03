@@ -5,7 +5,7 @@
 
 <h3 align="center">Hey 👋 I'm Chirayu</h3>
 <p align="center">
-Backend Developer • Curious Builder • Problem Solver 🚀
+Full Stack Developer • Curious Builder • Problem Solver 🚀
 </p>
 
 <!-- Profile Views -->
@@ -18,9 +18,9 @@ Backend Developer • Curious Builder • Problem Solver 🚀
 ### 🔍 About Me  
 
 - 🎓 CS Student @ **DAU (formerly DAIICT)**  
-- 🛠️ Backend development, system design & database modeling  
+- 🛠️ Full Stack development, system design & database modeling  
 - 🤖 Exploring **GenAI, Agentic AI & AI-assisted software engineering**  
-- 🧩 DSA learner (Striver A2Z) & Codeforces pupil 
+- 🧩 DSA learner (Striver A2Z) & pupil on Codeforces
 - 🤝 Open to collaborations & open-source contributions  
 
 ---
@@ -28,7 +28,7 @@ Backend Developer • Curious Builder • Problem Solver 🚀
 ### 🌐 Connect With Me  
 
 <p align="left">
-<a href="https://www.linkedin.com/in/chirayu-dodiya-3a025a2aa/" target="blank">
+<a href="https://www.linkedin.com/in/chirayu-dodiya/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirayu-dodiya" height="30" width="40" />
 </a>
 <a href="https://www.instagram.com/chirayu_dodiya/" target="blank">
@@ -60,6 +60,8 @@ Backend Developer • Curious Builder • Problem Solver 🚀
 <p align="right">
   <img src="https://img.shields.io/badge/Node.js-2D2F36?logo=nodedotjs&logoColor=3C873A&style=for-the-badge&height=30" />
   <img src="https://img.shields.io/badge/Express-2D2F36?logo=express&logoColor=white&style=for-the-badge&height=30" />
+   <img src="https://img.shields.io/badge/React-2D2F36?logo=react&logoColor=61DAFB&style=for-the-badge&height=30" />
+  <img src="https://img.shields.io/badge/Next.js-2D2F36?logo=nextdotjs&logoColor=white&style=for-the-badge&height=30" />
   <img src="https://img.shields.io/badge/PostgreSQL-2D2F36?logo=postgresql&logoColor=4169E1&style=for-the-badge&height=30" />
   <img src="https://img.shields.io/badge/MongoDB-2D2F36?logo=mongodb&logoColor=47A248&style=for-the-badge&height=30" />
   <img src="https://img.shields.io/badge/Postman-2D2F36?logo=postman&logoColor=FF6C37&style=for-the-badge&height=30" />
@@ -75,7 +77,7 @@ Backend Developer • Curious Builder • Problem Solver 🚀
 
 <p align="right">
   <img src="https://img.shields.io/badge/LangChain-2D2F36?logo=chainlink&logoColor=00E676&style=for-the-badge&height=30" />
-  <img src="https://img.shields.io/badge/LangGraph-2D2F36?logo=graphviz&logoColor=4FC3F7&style=for-the-badge&height=30" />
+  <img src="https://img.shields.io/badge/LangGraph-2D2F36?logo=chainlink&logoColor=00E676&style=for-the-badge&height=30" />
   <img src="https://img.shields.io/badge/LangSmith-2D2F36?logo=databricks&logoColor=FFB300&style=for-the-badge&height=30" />
 </p>
 
